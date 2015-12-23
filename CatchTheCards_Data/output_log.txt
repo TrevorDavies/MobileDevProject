@@ -1,0 +1,51 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7640G (ID=0x9903)
+    Vendor:   ATI
+    VRAM:     497 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.250 seconds
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Trevor\Desktop\CatchTheCardsV1\CatchTheCards_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x1536 at 0,-768
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 57.096943 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c20 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 35.986885 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 1.279692 ms (FindLiveObjects: 0.853128 ms CreateObjectMapping: 0.023218 ms MarkObjects: 0.372568 ms  DeleteObjects: 0.028617 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.172781 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.436283 ms (FindLiveObjects: 0.036716 ms CreateObjectMapping: 0.016738 ms MarkObjects: 0.370408 ms  DeleteObjects: 0.010799 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.860147 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.460041 ms (FindLiveObjects: 0.036176 ms CreateObjectMapping: 0.033477 ms MarkObjects: 0.372028 ms  DeleteObjects: 0.016198 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.045891 ms
+
+Unloading 122 unused Assets to reduce memory usage. Loaded Objects now: 236.
+Total: 0.449782 ms (FindLiveObjects: 0.043196 ms CreateObjectMapping: 0.027537 ms MarkObjects: 0.313713 ms  DeleteObjects: 0.062634 ms)
+
