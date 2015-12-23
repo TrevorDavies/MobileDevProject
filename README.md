@@ -9,4 +9,6 @@ The object is to catch the cards of the displayed suit, using the arrow keys(Lef
 Every 5 seconds you get some points, more points awarded for catching the right card.
 You are giving 5 lives, a life is deducted if you catch the wrong card.
 
+All code used is in the Assets/Scripts folder
+
 
